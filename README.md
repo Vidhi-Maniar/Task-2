@@ -35,4 +35,4 @@ Key Insights
 
 PDF
 
-The pdf contain each chart in it
+The pdf contains each chart in it.
