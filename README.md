@@ -15,7 +15,7 @@ Dataset
 
 Source: 'AmazonSalesData.xlsx'
 Contains data on:
- Order details ,
+ Order details,
  Country/Region,
  Item categories,
  Sales revenue, costs, and profit,
