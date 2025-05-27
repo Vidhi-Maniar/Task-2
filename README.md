@@ -6,7 +6,7 @@ Data Visualization & Storytelling
 
 Tools Used
 
-Tableau Public 
+Tableau Public, 
 Microsoft Excel 
 
 ---
@@ -15,11 +15,11 @@ Dataset
 
 Source: 'AmazonSalesData.xlsx'
 Contains data on:
- Order details
- Country/Region
- Item categories
- Sales revenue, costs, and profit
- Order and shipment dates
+ Order details ,
+ Country/Region,
+ Item categories,
+ Sales revenue, costs, and profit,
+ Order and shipment dates.
 
 ---
 
